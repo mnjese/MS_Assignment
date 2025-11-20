@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MS_Assignment - Tip Calculator</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="bill">Bill Amount</string>
+    <string name="service_how">How was your service?</string>
+    <string name="round_up">Round up tip?</string>
+    <string name="tip">Tip Amount: %s</string>
+</resources>
